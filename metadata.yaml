@@ -1,0 +1,27 @@
+_repo: Our-British-Snails_40880
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40880-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Horsley, J. W. (John William)
+    alias: Horsley, John William
+    birthdate: 1845
+    deathdate: 1921
+    gutenberg_agent_id: '40872'
+    url: http://www.gutenberg.org/2009/agents/40872
+description: ''
+gutenberg_issued: '2012-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40880'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Snails -- Great Britain'
+- !lcc 'QL'
+title: Our British Snails
+url: http://www.gutenberg.org/ebooks/40880
